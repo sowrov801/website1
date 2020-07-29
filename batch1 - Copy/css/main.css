@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti|Mali");
+/* GENERAL STYLES */
+:root {
+  --mainYellow: #fdbe02;
+  --mainWhite: #fff;
+  --mainBlack: #071013;
+  --mainGrey: #9b9999;
+  --TransGrey: rgba(0, 0, 0, 0.1);
+}
+body {
+  color: var(--mainBlack);
+  background: var(--mainWhite);
+  font-family: "Mali", cursive;
+}
+.text-slanted {
+  font-family: "Calligraffitti", cursive;
+}
+
+
+#main_header{
+	height: 600px;
+	width: 100%;
+
+}
+.right{
+	background: #c52222;
+	height: 600px;
+	
+}
+.left{
+	background:#172442;
+	height: 600px;
+}
+
+.left1{
+	margin-top: 300px;
+}
+h2.left-heading{
+	    margin-left: 242px;
+    color: wheat
+}
+.right-btn {
+    color: wheat;
+    background: #172442;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.right1{
+	margin-top: 300px;
+}
+h2.right-heading{
+	    margin-left: 142px;
+    color: wheat
+}
+.left-btn {
+    color: wheat;
+    background: #c52222;
+    margin-left: 142px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+
+       /*project section*/
+
+#project-section{
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+h1.project-heading{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+ button{
+	float: right;
+    padding: 5px;
+    background: #0e3192;
+    color: wheat;
+}
+
+
+section#project-details {
+    padding-top: 60px;
+    background: #e6e5e1;
+}
+
+.project-ss {
+    background: white;
+    margin-bottom: 8px;
+    padding: 7px;
+}
+.p-creat{
+	float: right;
+}
+
+
+
+                /*profile section*/
+
+
+#profile-section{
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+h1.profile-heading{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+ button{
+	float: right;
+    padding: 5px;
+    background: #0e3192;
+    color: wheat;
+}
+
+
+
+
+.fre-perfect-freelancer {
+    background: #f9f9f9;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.fre-freelancer-wrap {
+    position: relative;
+    background: #FFF;
+	margin-bottom: 37px;
+
+}
+.span{
+	color:#f9f9f9
+}
+.picture {
+    background: #846b6b;
+    height: 58px;
+    width: 60px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 36px;
+}
+
+             /**business-section**/
+
+#business-section{
+	margin-top: 30px;
+}
+.project-pic{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+
+          /**testimonial-section**/
+
+section#testomonial {
+    padding-top: 60px;
+    background: #e6e5e1;
+}
+.testi-text {
+    background: white;
+    text-align: center;
+}
+
+  /**offer-section**/
+
+section#offer {
+    padding-top: 40px;
+    background: #a09f98;
+}
+
+.1st-offer{
+	 border: 1px solid black;
+}
+.month {
+    padding: 30px;
+    background: black;
+    color: #f5f4f2;
+    text-align: center;
+    font-size: 30px;
+}
+.company {
+    background: white;
+    text-align: center;
+}
+.sign {
+    border: 1px solid black;
+    margin: 47px;
+    background: blue;
+    color: white;
+}
+
+   /**Info Sections**/
+   
+section#info {
+    padding-top: 60px;
+  
+}
+
+footer#footer {
+    background: #8c7878;
+	padding: 30px;
+}
+span.footer-right {
+    float: right;
+}
+
